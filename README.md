@@ -6,4 +6,11 @@ Repositorio para el proyecto final de la materia de Fundamentos de Sistemas Embe
 
 # Autores.
 
+- Lopez Rodriguez Octavio
+
+- Ramírez Vigueras Alma Y.
+
+- Tapia Solis Samuel Alejandro
+
+- Ramos Orozco Daniel
 # Datos de los autores. 
